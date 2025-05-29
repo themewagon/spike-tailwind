@@ -1,4 +1,4 @@
-#Spike - Free Tailwind CSS Admin Dashboard Template
+# Spike - Free Tailwind CSS Admin Dashboard Template
 
 #### Preview
 
